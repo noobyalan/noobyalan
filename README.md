@@ -1,6 +1,6 @@
 # Hi, I'm Alan 👋
 
- - ** I'm majoring in <strong>International Business</strong> but have a strong interest in <strong>technology</strong>. I'm always learning and exploring how tech can be applied in business.
+ - I'm majoring in <strong>International Business</strong> but have a strong interest in <strong>technology</strong>. I'm always learning and exploring how tech can be applied in business.
 
 
 ## Hobbies
