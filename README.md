@@ -1,6 +1,17 @@
 # Hi, I'm Alan 👋
 
-A **International Business** student from [Jinan University](https://english.jnu.edu.cn/)but have a strong interest in **technology**. I'm always learning and exploring how tech can be applied in business.
+<p>
+  <span style="display:inline-block; animation: typing 6s steps(30, end) 1 normal both;">
+    I'm majoring in <strong>International Business</strong> but have a strong interest in <strong>technology</strong>. I'm always learning and exploring how tech can be applied in business.
+  </span>
+</p>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+</style>
 
 ## Hobbies
 - **Classical music**
