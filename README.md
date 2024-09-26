@@ -5,9 +5,9 @@ I'm majoring in **International Business** but have a strong interest in **techn
 ## Hobbies
 - **Classical music**
 - **Rock music**
+- **Drawing**
 
 ## What I'm Learning
-- Frontend web development
+- Machine Learning
 - Business and tech integration
 
-Feel free to check out my projects!
