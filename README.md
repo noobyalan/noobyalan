@@ -1,6 +1,6 @@
 # Hi, I'm Alan 👋
 
-I'm majoring in **International Business** but have a strong interest in **technology**. I'm always learning and exploring how tech can be applied in business.
+A **International Business** student from [Jinan University](https://english.jnu.edu.cn/)but have a strong interest in **technology**. I'm always learning and exploring how tech can be applied in business.
 
 ## Hobbies
 - **Classical music**
@@ -10,4 +10,4 @@ I'm majoring in **International Business** but have a strong interest in **techn
 ## What I'm Learning
 - Machine Learning
 - Business and tech integration
-
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobyalan&show_icons=true&theme=radical)
