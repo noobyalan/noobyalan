@@ -1,17 +1,7 @@
 # Hi, I'm Alan 👋
 
-<p>
-  <span style="display:inline-block; animation: typing 6s steps(30, end) 1 normal both;">
     I'm majoring in <strong>International Business</strong> but have a strong interest in <strong>technology</strong>. I'm always learning and exploring how tech can be applied in business.
-  </span>
-</p>
 
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-</style>
 
 ## Hobbies
 - **Classical music**
