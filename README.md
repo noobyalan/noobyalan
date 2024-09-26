@@ -10,4 +10,4 @@ A **International Business** student from [Jinan University](https://english.jnu
 ## What I'm Learning
 - Machine Learning
 - Business and tech integration
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobyalan&show_icons=true&theme=radical)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=823059911&show_icons=true&hide_title=true&hide_border=true&theme=graywhite)
